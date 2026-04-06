@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz + Borges
+title: Bienvenidos Quartz + Borges
 ---
 
 This is a blank Quartz installation.
