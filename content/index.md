@@ -1,7 +1,6 @@
 —
 title: Bienvenidos Quartz + Borges
 —
-ボルヘスの、それぞれ1975年と1976年に出版されたLa rosa profunda とLa moneda de hierro が国書刊行会より鼓直さんの翻訳で出されたのは、1989年7月だった。
 
 ボルヘスの、それぞれ1975年と1976年に出版されたLa rosa profundaとLa moneda de hierroが国書刊行会より鼓直さんの翻訳で『永遠の薔薇・鉄の貨幣』として出されたのは、1989年7月だった。
 
