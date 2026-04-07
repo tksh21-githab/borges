@@ -1,5 +1,5 @@
 ---
-title: Bienvenidos Quartz + Borges
+title: Hacia Ginebra
 ---
 ボルヘスの、それぞれ1975年と1976年に出版されたLa rosa profunda とLa moneda de hierro が国書刊行会より鼓直さんの翻訳で出されたのは、1989年7月だった。
 
@@ -18,7 +18,3 @@ title: Bienvenidos Quartz + Borges
 お墓をアルゼンチンに移す動きがあるのは噂で聞くが、ナショナリストとも称される彼がコスモポリタンとしてこうしてジュネーヴに眠っている。この意味を考えるのが私の今の課題だ。ボルヘスとともに「ジュネーヴの方へ」向く。私たちが障害者権利条約に込めるのと同じ願いがボルヘスの最後の詩には込められている。
 
 「ジュネーヴの方へ」、そしてまた私はClaude Codeという人工知能の導きによって、これまでこんな自分でたまに書き記した文章を残して来たサービスを、githubや今ここで書いているQuartz へと移している、それはまさに閉じられたものからマークダウンという「共通の言語」を操りながら外へ外へと開かれていく運動でもある。私は、私たちは今これまで私たちが見たことのない地点へと向かおうとしているのだ。
-
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
